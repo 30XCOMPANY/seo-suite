@@ -2,6 +2,7 @@
 
 > 50+ Production-Ready SEO Skills for AI Coding Agents. One install. Complete SEO automation.
 
+[![Landing Page](https://img.shields.io/badge/Landing%20Page-Live-green)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code Ready](https://img.shields.io/badge/Claude%20Code-Ready-blue)](https://claude.ai/claude-code)
 [![30XCOMPANY](https://img.shields.io/badge/30XCOMPANY-SEO%20Suite-orange)]()
